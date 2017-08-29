@@ -1,0 +1,48 @@
+.navbar{
+	background-color: #5a6574;
+}
+.navbar a{
+	color:#fff;
+}
+.cliente{
+	width: 89px;
+	height: 89px;
+	margin-bottom: 20%;
+}
+.circulo{
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	background-color: #75c8f6;
+	display: inline-block;
+}
+.Legend-1 {
+  width: 114px;
+  height: 15px;
+  font-family: Roboto;
+  font-size: 11px;
+  letter-spacing: -0.1px;
+  color: #a2a6ad;
+}
+.Legend-link{
+	color: #2c82be;
+}
+.Legend--gris{
+	color: #a2a6ad;
+}
+.letra--azulFuerte{
+	color: #161032;
+}
+.letra--azulMedio{
+	color: #53a8e2;
+}
+.letra--azulClaro{
+	color: #76ddfb;
+}
+.layer{
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.1px;
+  color: #4a4a4a;
+}
+
